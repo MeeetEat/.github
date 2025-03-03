@@ -16,13 +16,16 @@
 
 ## ProJect
 - `더 자세한 기능설명은` [여기!](https://www.notion.so/1863f2c98c7380a19364cbd8ad3479ea)
-<p align="center"><strong>로그인 & 회원가입</strong></p>
+
 <table align="center">
   <thead>
     <tr>
-      <th>로그인</th>
-      <th>회원가입</th>
-      <th>에러메시지표시</th>
+      <th colspan="3">로그인 & 회원가입</th>
+    </tr>
+    <tr>
+      <th align="center">로그인</th>
+      <th align="center">회원가입</th>
+      <th align="center">에러메시지표시</th>
     </tr>
   </thead>
   <tbody>
@@ -33,9 +36,11 @@
     </tr>
   </tbody>
 </table>
-<p align="center"><strong>마이페이지</strong></p>
 <table align="center">
   <thead>
+    <tr>
+      <th colspan="3">마이페이지</th>
+    </tr>
     <tr>
       <th>내 정보 수정</th>
       <th>비밀번호변경</th>
@@ -50,9 +55,11 @@
     </tr>
   </tbody>
 </table>
-<p align="center"><strong>실시간매칭</strong></p>
 <table align="center">
   <thead>
+    <tr>
+      <th colspan="4">실시간매칭</th>
+    </tr>
     <tr>
       <th>식당검색</th>
       <th>실시간매칭</th>
@@ -69,9 +76,11 @@
     </tr>
   </tbody>
 </table>
-<p align="center"><strong>식당게시판</strong></p>
 <table align="center">
   <thead>
+    <tr>
+      <th colspan="4">식당게시판</th>
+    </tr>
     <tr>
       <th>식당게시판</th>
       <th>검색기능</th>
@@ -88,9 +97,11 @@
     </tr>
   </tbody>
 </table>
-<p align="center"><strong>반응형버튼구현</strong></p>
 <table align="center">
   <thead>
+    <tr>
+      <th colspan="4">반응형버튼구현</th>
+    </tr>
     <tr>
       <th>기본</th>
       <th>로딩중</th>
