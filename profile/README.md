@@ -141,7 +141,7 @@
       <th><a href="https://github.com/parkmihyunn">박미현</a></th>
       <th><a href="https://github.com/g1923">김지원</a></th>
       <th><a href="https://github.com/yoon627">이종윤</a></th>
-      <th><a href="https://github.com/chanmin01">전찬민-팀</a></th>
+      <th><a href="https://github.com/chanmin01">전찬민-팀장</a></th>
     </tr>
   </thead>
   <tbody>
