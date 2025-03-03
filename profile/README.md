@@ -27,9 +27,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://drive.google.com/thumbnail?id=16g-uwL5dl0tauM4W-NgtlDXiYXxho2q4" alt="로그인일반"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=17gJOzf16Sax8q__tzdhtKbCNcl7Wex6e" alt="회원가입"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=184U5JFAlX8uHU1_UDu7jCD3otn8iHBzd" alt="에러메세지"></td>
+      <td><img src="https://github.com/user-attachments/assets/6361d54b-37ba-40c8-80ba-e0e4de6d5d59" alt="로그인일반"></td>
+      <td><img src="https://github.com/user-attachments/assets/707ae956-9b68-47d1-9962-ced8e25d3453" alt="회원가입"></td>
+      <td><img src="https://github.com/user-attachments/assets/5158eb98-2900-4bfd-825a-d4957994cd25" alt="에러메세지"></td>
     </tr>
   </tbody>
 </table>
@@ -44,9 +44,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://drive.google.com/thumbnail?id=19eIg5lfF_gotnQpnEtIJb6_pG3j4WBxn" alt="내정보수정"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1BO8-uW7dGzSX8ecON6ysaI1xUzOmIsfX" alt="비밀번호변경"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1CRJvHoQuCtyvRic4-gntZxzCACxIhexj" alt="회원탈퇴"></td>
+      <td><img src="https://github.com/user-attachments/assets/05203a72-1029-4062-8593-d6b4af99e53d" alt="내정보수정"></td>
+      <td><img src="https://github.com/user-attachments/assets/e5dc4392-99de-4304-999c-49957d1bef8b" alt="비밀번호변경"></td>
+      <td><img src="https://github.com/user-attachments/assets/91ed9bec-73ee-44e5-9d58-9141e52e4ab4" alt="회원탈퇴"></td>
     </tr>
   </tbody>
 </table>
@@ -62,10 +62,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://drive.google.com/thumbnail?id=1-puRVYqW_4wLCdlDkvXmTm7w3JOqhzCr" alt="식당검색"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1GpMLtdRWTo0_RoeypMdzVZTZgwxfEQeS" alt="실시간매칭"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1H7rDpnjiS5p6VpIFgkCOdS8WoBwwJxiP" alt="매칭취소"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1EQx1h3L0hfp3YO3-GZTM5N0PyaFjQFhG" alt="리뷰작성"></td>
+      <td><img src="https://github.com/user-attachments/assets/986639e2-73c4-4fa9-a2de-062967636f0d" alt="식당검색"></td>
+      <td><img src="https://github.com/user-attachments/assets/f40cbb94-15c4-4b18-afb1-12d85bdb7478" alt="실시간매칭"></td>
+      <td><img src="https://github.com/user-attachments/assets/744e49b4-81fb-4403-ad5c-5a2567348444" alt="매칭취소"></td>
+      <td><img src="https://github.com/user-attachments/assets/41b1b6dc-3a99-4471-a55f-0697d9f55722" alt="리뷰작성"></td>
     </tr>
   </tbody>
 </table>
@@ -81,10 +81,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://drive.google.com/thumbnail?id=1IHWW2Drr5ceuO0DY167HEFsQ3nK3fBua" alt="식당게시판"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1L09AXbuahd42stNLPwyFij03eVnyD30J" alt="검색기능"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1JSdXmAyli9lt-4LP-wcaYGFTAzMtUoou" alt="검색필터"></td>
-      <td><img src="https://drive.google.com/thumbnail?id=1LB_T2BCS2FRWhShjKc5A76z_3_CaAXpd" alt="상세페이지"></td>
+      <td><img src="https://github.com/user-attachments/assets/9ec78500-3439-4a60-8c53-fef8141ff563" alt="식당게시판"></td>
+      <td><img src="https://github.com/user-attachments/assets/2a506206-b691-46c7-a834-7b063f4beddf" alt="검색기능"></td>
+      <td><img src="https://github.com/user-attachments/assets/41ad8efa-94d6-471c-87c4-a6f9507e0b0e" alt="검색필터"></td>
+      <td><img src="https://github.com/user-attachments/assets/b89bda61-ff51-4570-94ee-5e48f62e3f6b" alt="상세페이지"></td>
     </tr>
   </tbody>
 </table>
@@ -100,10 +100,10 @@
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><img src="https://drive.google.com/thumbnail?id=1MOl8wtjfA4tscYrrMI_tzDZlLa18Ac9g" alt="뒷배경색변하는버튼"></td>
-      <td width="25%"><img src="https://drive.google.com/thumbnail?id=1MNYgj3GJpNlUHU8R16uzu1fCoEMGtvaC" alt="로딩중"></td>
-      <td width="25%"><img src="https://drive.google.com/thumbnail?id=1MpCcnxiNSWp74JB2qCB0HOEZpdUuT8Wg" alt="oneBtn"></td>
-      <td width="25%"><img src="https://drive.google.com/thumbnail?id=1MoFj-cNYyVqreJIsVl9yC24Dg_MsPkNY" alt="twoBtn"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/9d284135-b7f3-4b12-bbfe-0f9fa07e8071" alt="뒷배경색변하는버튼"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/6b627e57-55ba-41ee-a69e-8107495567ac" alt="로딩중"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/eac8ba3c-801b-4f47-a75a-c4abb926fb87" alt="oneBtn"></td>
+      <td width="25%"><img src="https://github.com/user-attachments/assets/fcacdfd5-f335-4e13-b953-2eca6de8e21c" alt="twoBtn"></td>
     </tr>
   </tbody>
 </table>
@@ -112,15 +112,15 @@
 
 ## 아키텍쳐
 
-![밋?잇!아키텍쳐](https://drive.google.com/uc?export=view&id=1-v9TVRHvS8kKgbiIHP3LMPFoiA1uNRp2)
+![밋?잇!아키텍쳐](https://github.com/user-attachments/assets/3568743d-3c8b-46fe-bda0-7ef0f2c535e4)
 
 ## ERD
 
-![밋?잇!ERD](https://drive.google.com/uc?export=view&id=1NJJBRw-b0DvRhInu6N73Dkd4f-gpXkup)
+![밋?잇!ERD](https://github.com/user-attachments/assets/eb72737b-6d43-4632-8edb-e95935b689f6)
 
 ## Communication
 
-<img src="https://drive.google.com/uc?export=view&id=1NkyzfU05gHUyxzuiB8qpue8zhy3JBQwr" alt="뒷배경색변하는버튼" width="300px">
+<img src="https://github.com/user-attachments/assets/4ac9dfe6-c228-43c0-90db-a87c8f1ff514" alt="뒷배경색변하는버튼" width="300px">
 
 ## Members
 <table align="center">
