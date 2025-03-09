@@ -123,7 +123,7 @@
 
 ## 아키텍쳐
 
-![밋?잇!아키텍쳐](https://github.com/user-attachments/assets/3568743d-3c8b-46fe-bda0-7ef0f2c535e4)
+![밋?잇!아키텍쳐](https://github.com/user-attachments/assets/dbdf76d8-b7f1-4f86-b379-6884221342aa)
 
 ## ERD
 
